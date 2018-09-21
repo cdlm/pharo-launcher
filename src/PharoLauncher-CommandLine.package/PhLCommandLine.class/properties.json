@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TClapBase classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhLCommandLine",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "TClapBase",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "PharoLauncher-CommandLine"
+}
